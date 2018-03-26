@@ -1,3 +1,10 @@
+# LabStyleGuide
+
+## FORMATO A ENTREGAR:
+Producto web. Versión Escritorio.
+
+![print pantalla](https://user-images.githubusercontent.com/32303709/37830077-2c4a7346-2e80-11e8-9d9e-7d3f0e85169f.png)
+
 
 PROYECTO: Styleguide de componentes en React
   v.1.0     
@@ -22,7 +29,7 @@ Realizado por:
 
 
 
-**_DEMO DEL PRODUCTO_** 
+**_DEMO DEL PRODUCTO_**
 -  https://whispering-fjord-92374.herokuapp.com/
 -  https://github.com/ValePV/LabStyleGuide
 -----------------------------------------------------
@@ -46,10 +53,10 @@ Realizado por:
 PRODUCTO:
 =========
 
-Crear un styleguide de componentes para Laboratoria utilizando el nuevo branding, pudiendo proponer nuevos elementos o mejoras a los elementos existentes. 
-Nos enfocaremos en soluciones a nivel técnico.Para esto se comenzó realizando una investigación por medio de encuestas para usuarios que utilizarían la plataforma de Laboratoria y para developers que generalmente están ocupando librerías en sus proyectos. De las cuales rescatamos las siguientes conclusiones 
+Crear un styleguide de componentes para Laboratoria utilizando el nuevo branding, pudiendo proponer nuevos elementos o mejoras a los elementos existentes.
+Nos enfocaremos en soluciones a nivel técnico.Para esto se comenzó realizando una investigación por medio de encuestas para usuarios que utilizarían la plataforma de Laboratoria y para developers que generalmente están ocupando librerías en sus proyectos. De las cuales rescatamos las siguientes conclusiones
 
-Luego definimos nuestro usuario primario y en quién nos enfocaremos principalmente, aunque nos pudimos percatar de que nuestro producto afectaría de manera positiva al usuario secundario aunque de forma un poco más indirecta. 
+Luego definimos nuestro usuario primario y en quién nos enfocaremos principalmente, aunque nos pudimos percatar de que nuestro producto afectaría de manera positiva al usuario secundario aunque de forma un poco más indirecta.
 **Primary persona**
 ![primary persona](https://user-images.githubusercontent.com/32303709/37828960-ff8f9e3e-2e7b-11e8-820b-ea9a79fcf370.jpg)
 
@@ -57,11 +64,11 @@ Luego definimos nuestro usuario primario y en quién nos enfocaremos principalme
 
 ![usuario segundario 1](https://user-images.githubusercontent.com/32303709/37829068-5bcad6e6-2e7c-11e8-843b-70375620f400.jpg)
 
-Un Benchmark comparando algunas páginas de librerías y así observar los componentes más utilizados, la distribución de la información, la accesibilidad a los componentes y rescatar ideas que pudieran aportar a nuestro proyecto. 
+Un Benchmark comparando algunas páginas de librerías y así observar los componentes más utilizados, la distribución de la información, la accesibilidad a los componentes y rescatar ideas que pudieran aportar a nuestro proyecto.
 
 ![benchmark -librerias-guias de estilos](https://user-images.githubusercontent.com/32303709/37829128-97f5a5f6-2e7c-11e8-85a2-72574240a582.jpg)
 
-Realizamos un Affinity maps con las problemáticas que la gente tenía 
+Realizamos un Affinity maps con las problemáticas que la gente tenía
 
 ![affinity map](https://user-images.githubusercontent.com/32303709/37829143-af0c0f8c-2e7c-11e8-8973-f68702ab0f95.jpg)
 
@@ -76,7 +83,7 @@ Nuestro fin es facilitar el uso de componentes a los desarrolladores de Laborato
 # CÓMO VALIDAMOS EL PRODUCTO:
 
 El producto lo validamos realizando encuestas a Front-End Developer para entender su experiencia en el uso de librerías  y a usuarios no directos para saber qué le podía faltar a la página de Laboratoria y con ello hacer un Match comprendiendo que componentes se podían crear. Las librerías facilitan en gran medida el trabajo optimizando los tiempos de los developers por lo que hacer una es muy útil.
- 
+
 
 # OBJETIVOS:
 
@@ -87,7 +94,7 @@ Crear una Librería con guia de estilos inicialmente con 5 componentes en React 
 
 #REALIZACIÓN DE SKETCHES:
 
-Luego se realizó el Sketches 
+Luego se realizó el Sketches
 ![20180323_023621_resized](https://user-images.githubusercontent.com/32303709/37829447-c40300c0-2e7d-11e8-88b0-9ebbbba43be8.jpg)
 
 ![20180323_023958](https://user-images.githubusercontent.com/32303709/37829467-da328eb0-2e7d-11e8-9f86-b10937dcefa0.jpg)
@@ -120,19 +127,7 @@ Luego se realizó el Sketches
 
 Luego se afinaron detalles y se llego a la solución final:
 
-# FORMATO A ENTREGAR: 
-Producto web. Versión Escritorio.
-
-![print pantalla](https://user-images.githubusercontent.com/32303709/37830077-2c4a7346-2e80-11e8-9d9e-7d3f0e85169f.png)
 
 **CONCLUSION**
 
 Logramos llegar a un MVP que fueron los cinco componentes más relevantes de la página de Laboratoria que nos planteamos en un principio luego de la investigación, también colocamos un componente más (navbar) que no estaba contemplado dentro de la página de Labotatoria.
-
-
-
-
-
-
-
-
