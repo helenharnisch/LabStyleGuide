@@ -1,10 +1,9 @@
 # LabStyleGuide
 
-## FORMATO A ENTREGAR:
-Producto web. Versión Escritorio.
-
 ![print pantalla](https://user-images.githubusercontent.com/32303709/37830077-2c4a7346-2e80-11e8-9d9e-7d3f0e85169f.png)
 
+## FORMATO A ENTREGAR:
+Producto web. Versión Escritorio.
 
 ## PROYECTO: Styleguide de componentes en React
   v.1.0     
