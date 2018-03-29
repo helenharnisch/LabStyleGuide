@@ -80,19 +80,19 @@ Realizamos un Affinity maps con las problemáticas que la gente tenía
 Nuestro fin es facilitar el uso de componentes a los desarrolladores de Laboratoria  para que puedan usar y construir el sitio más rápido y fácil siguiendo la línea de diseño y valor de laboratoria.
 
 
-# CÓMO VALIDAMOS EL PRODUCTO:
+## CÓMO VALIDAMOS EL PRODUCTO:
 
 El producto lo validamos realizando encuestas a Front-End Developer para entender su experiencia en el uso de librerías  y a usuarios no directos para saber qué le podía faltar a la página de Laboratoria y con ello hacer un Match comprendiendo que componentes se podían crear. Las librerías facilitan en gran medida el trabajo optimizando los tiempos de los developers por lo que hacer una es muy útil.
 
 
-# OBJETIVOS:
+## OBJETIVOS:
 
 Crear una Librería con guia de estilos inicialmente con 5 componentes en React ,siguiendo el Branding de Laboratoria , al tener los datos de la investigación se llegó a la ideación iniciamos con un mapa de contenido con el Mpv .
 
-#MAPA DE CONTENIDO STYLEGUIDE:
+## MAPA DE CONTENIDO STYLEGUIDE:
 ![fireshot capture 031 - hackaton-2 - google drive_ - https___drive google com_drive_fol](https://user-images.githubusercontent.com/32303709/37829424-adbced9e-2e7d-11e8-9d3b-fbb87e993f3e.jpg)
 
-#REALIZACIÓN DE SKETCHES:
+## REALIZACIÓN DE SKETCHES:
 
 Luego se realizó el Sketches
 ![20180323_023621_resized](https://user-images.githubusercontent.com/32303709/37829447-c40300c0-2e7d-11e8-88b0-9ebbbba43be8.jpg)
@@ -104,7 +104,7 @@ Luego se realizó el Sketches
 
 
 
-#PROTOTIPOS V.1.0 MVP:
+## PROTOTIPOS V.1.0 MVP:
 
 **COMPONENTE BUTTONS**
 
