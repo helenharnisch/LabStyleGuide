@@ -130,3 +130,5 @@ Luego se afinaron detalles y se llego a la solución final:
 **CONCLUSION**
 
 Logramos llegar a un MVP que fueron los cinco componentes más relevantes de la página de Laboratoria que nos planteamos en un principio luego de la investigación, también colocamos un componente más (navbar) que no estaba contemplado dentro de la página de Labotatoria.
+
+## Desarrollado para [Laboratoria](http://laboratoria.la)
