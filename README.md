@@ -30,7 +30,6 @@ Realizado por:
 
 **_DEMO DEL PRODUCTO_**
 -  https://labstyleguide.herokuapp.com/
--  https://github.com/ValePV/LabStyleGuide
 -----------------------------------------------------
 
 
