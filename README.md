@@ -1,6 +1,8 @@
 # LabStyleGuide
 
-![print pantalla](https://user-images.githubusercontent.com/32303709/37830077-2c4a7346-2e80-11e8-9d9e-7d3f0e85169f.png)
+![librerialaboratoria](https://user-images.githubusercontent.com/32281399/38094721-fa5ba12e-3344-11e8-82b1-ad3a4c85fe90.png)
+
+
 
 ## FORMATO A ENTREGAR:
 Producto web. Versión Escritorio.
