@@ -29,7 +29,7 @@ Realizado por:
 
 
 **_DEMO DEL PRODUCTO_**
--  https://whispering-fjord-92374.herokuapp.com/
+-  https://labstyleguide.herokuapp.com/
 -  https://github.com/ValePV/LabStyleGuide
 -----------------------------------------------------
 
